@@ -16,7 +16,7 @@ class App extends Component {
           <h1 className="App-title">Happy 6th Birthday, Sienna!</h1>
         </header>
         <main>
-          <h2>Seacrhc Emojis here!</h2>
+          <h2>Search Emojis here!</h2>
           <SearchBox filterEmoji={this.filterEmoji} />
           <Emojis emojiList={this.state.emojiList} />
         </main>
