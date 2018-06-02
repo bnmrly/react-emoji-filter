@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: pink;
 }
 
 .App-header {
@@ -14,10 +15,6 @@
 .App-title {
   font-size: 2em;
   margin-top: 0;
-}
-
-.App-intro {
-  font-size: large;
 }
 
 @keyframes App-logo-spin {

@@ -1,19 +1,37 @@
 import React, { Component } from 'react';
-import bgHeader from './bgHeader.png';
+// import bgHeader from './bgHeader.png';
 import './App.css';
+import emojiList from './emojList';
+import Emojis from './components/Emojis';
+import SearchBox from './components/SearchBox';
 
 class App extends Component {
+  state = {
+    emojiList
+  };
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          {/* <img src={logo} className="App-logo" alt="logo" /> */}
-          <h1 className="App-title">Happy Birthday Sienna!</h1>
+          <h1 className="App-title">Happy 6th Birthday, Sienna!</h1>
         </header>
-        <p className="App-intro">Love from Daddy xxxxx</p>
+        <main>
+          <h2>Seacrhc Emojis here!</h2>
+          <SearchBox filterEmoji={this.filterEmoji} />
+          <Emojis emojiList={this.state.emojiList} />
+        </main>
       </div>
     );
   }
+
+  filterEmoji = searchTerm => {
+    const filteredList = emojiList.filter(({ keywords }) =>
+      keywords.includes(searchTerm)
+    );
+    this.setState({
+      emojiList: filteredList
+    });
+  };
 }
 
 export default App;
