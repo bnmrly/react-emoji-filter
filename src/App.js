@@ -4,22 +4,24 @@ import './App.css';
 import emojiList from './emojList';
 import Emojis from './components/Emojis';
 import SearchBox from './components/SearchBox';
+import ReactAudioPlayer from 'react-audio-player';
 
 class App extends Component {
   state = {
     emojiList
   };
+
   render() {
+    console.dir(this.state.emojiList);
     return (
       <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">Happy 6th Birthday, Sienna!</h1>
-        </header>
-        <main>
-          <h2>Search Emojis here!</h2>
-          <SearchBox filterEmoji={this.filterEmoji} />
+        <Header />
+        {/* <ReactAudioPlayer src="hbsw.mp3" autoPlay controls /> */}
+        <h2 className="searchText">Search Emojis here!</h2>
+        <SearchBox filterEmoji={this.filterEmoji} />
+        <div className="emojiWrapper">
           <Emojis emojiList={this.state.emojiList} />
-        </main>
+        </div>
       </div>
     );
   }
@@ -32,6 +34,14 @@ class App extends Component {
       emojiList: filteredList
     });
   };
+}
+
+function Header() {
+  return (
+    <header className="App-header">
+      <h1 className="App-title">Happy 6th Birthday, Sienna!</h1>
+    </header>
+  );
 }
 
 export default App;

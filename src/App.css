@@ -1,27 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.body {
+  font-family: 'Josefin Sans', cursive;
+  background-color: pink;
+}
+
 .App {
   text-align: center;
-  background-color: pink;
 }
 
 .App-header {
   background-image: url('bgHeader.png');
   background-size: cover;
   background-position: center 0;
-  height: 150px;
-  padding: 20px;
-  color: white;
+  height: 12rem;
+  padding-top: 1rem;
 }
 
 .App-title {
-  font-size: 2em;
+  font-size: 2.75rem;
   margin-top: 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.searchText {
+  font-size: 2.25rem;
 }
+
+.emojiInput {
+  width: 50%;
+  height: 3rem;
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+  font-family: 'Josefin Sans', cursive;
+}
+
+.emojiWrapper {
+  margin: auto;
+  max-width: 75%;
+}
+
+/* .emojis {
+  max-width: 75%;
+} */
