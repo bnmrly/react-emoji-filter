@@ -5271,1291 +5271,1291 @@ export default [
     symbol: '👁',
     keywords: 'eye in speech bubble object symbol eyes talk'
   },
-  // {
-  //   title: 'Flag Ac',
-  //   symbol: '🇦',
-  //   keywords: 'ascension country flag flag'
-  // },
-  // {
-  //   title: 'Flag Af',
-  //   symbol: '🇦',
-  //   keywords: 'afghanistan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Al',
-  //   symbol: '🇦',
-  //   keywords: 'albania country flag flag'
-  // },
-  // {
-  //   title: 'Flag Dz',
-  //   symbol: '🇩',
-  //   keywords: 'algeria country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ad',
-  //   symbol: '🇦',
-  //   keywords: 'andorra country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ao',
-  //   symbol: '🇦',
-  //   keywords: 'angola country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ai',
-  //   symbol: '🇦',
-  //   keywords: 'anguilla country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ag',
-  //   symbol: '🇦',
-  //   keywords: 'antigua and barbuda country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ar',
-  //   symbol: '🇦',
-  //   keywords: 'argentina country flag flag'
-  // },
-  // {
-  //   title: 'Flag Am',
-  //   symbol: '🇦',
-  //   keywords: 'armenia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Aw',
-  //   symbol: '🇦',
-  //   keywords: 'aruba country flag flag'
-  // },
-  // {
-  //   title: 'Flag Au',
-  //   symbol: '🇦',
-  //   keywords: 'australia country flag flag'
-  // },
-  // {
-  //   title: 'Flag At',
-  //   symbol: '🇦',
-  //   keywords: 'austria country flag flag'
-  // },
-  // {
-  //   title: 'Flag Az',
-  //   symbol: '🇦',
-  //   keywords: 'azerbaijan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bs',
-  //   symbol: '🇧',
-  //   keywords: 'the bahamas country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bh',
-  //   symbol: '🇧',
-  //   keywords: 'bahrain country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bd',
-  //   symbol: '🇧',
-  //   keywords: 'bangladesh country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bb',
-  //   symbol: '🇧',
-  //   keywords: 'barbados country flag flag'
-  // },
-  // {
-  //   title: 'Flag By',
-  //   symbol: '🇧',
-  //   keywords: 'belarus country flag flag'
-  // },
-  // {
-  //   title: 'Flag Be',
-  //   symbol: '🇧',
-  //   keywords: 'belgium country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bz',
-  //   symbol: '🇧',
-  //   keywords: 'belize country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bj',
-  //   symbol: '🇧',
-  //   keywords: 'benin country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bm',
-  //   symbol: '🇧',
-  //   keywords: 'bermuda country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bt',
-  //   symbol: '🇧',
-  //   keywords: 'bhutan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bo',
-  //   symbol: '🇧',
-  //   keywords: 'bolivia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ba',
-  //   symbol: '🇧',
-  //   keywords: 'bosnia and herzegovina country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bw',
-  //   symbol: '🇧',
-  //   keywords: 'botswana country flag flag'
-  // },
-  // {
-  //   title: 'Flag Br',
-  //   symbol: '🇧',
-  //   keywords: 'brazil country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bn',
-  //   symbol: '🇧',
-  //   keywords: 'brunei country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bg',
-  //   symbol: '🇧',
-  //   keywords: 'bulgaria country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bf',
-  //   symbol: '🇧',
-  //   keywords: 'burkina faso country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bi',
-  //   symbol: '🇧',
-  //   keywords: 'burundi country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cv',
-  //   symbol: '🇨',
-  //   keywords: 'cape verde country flag flag'
-  // },
-  // {
-  //   title: 'Flag Kh',
-  //   symbol: '🇰',
-  //   keywords: 'cambodia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cm',
-  //   symbol: '🇨',
-  //   keywords: 'cameroon country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ca',
-  //   symbol: '🇨',
-  //   keywords: 'canada country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ky',
-  //   symbol: '🇰',
-  //   keywords: 'cayman islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cf',
-  //   symbol: '🇨',
-  //   keywords: 'central african republic country flag flag'
-  // },
-  // {
-  //   title: 'Flag Td',
-  //   symbol: '🇹',
-  //   keywords: 'chad country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cl',
-  //   symbol: '🇨',
-  //   keywords: 'chile country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cn',
-  //   symbol: '🇨',
-  //   keywords: 'china country flag flag'
-  // },
-  // {
-  //   title: 'Flag Co',
-  //   symbol: '🇨',
-  //   keywords: 'colombia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Km',
-  //   symbol: '🇰',
-  //   keywords: 'the comoros country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cg',
-  //   symbol: '🇨',
-  //   keywords: 'the republic of the congo country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cd',
-  //   symbol: '🇨',
-  //   keywords: 'the democratic republic of the congo country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cr',
-  //   symbol: '🇨',
-  //   keywords: 'costa rica country flag flag'
-  // },
-  // {
-  //   title: 'Flag Hr',
-  //   symbol: '🇭',
-  //   keywords: 'croatia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cu',
-  //   symbol: '🇨',
-  //   keywords: 'cuba country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cy',
-  //   symbol: '🇨',
-  //   keywords: 'cyprus country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cz',
-  //   symbol: '🇨',
-  //   keywords: 'the czech republic country flag flag'
-  // },
-  // {
-  //   title: 'Flag Dk',
-  //   symbol: '🇩',
-  //   keywords: 'denmark country flag flag'
-  // },
-  // {
-  //   title: 'Flag Dj',
-  //   symbol: '🇩',
-  //   keywords: 'djibouti country flag flag'
-  // },
-  // {
-  //   title: 'Flag Dm',
-  //   symbol: '🇩',
-  //   keywords: 'dominica country flag flag'
-  // },
-  // {
-  //   title: 'Flag Do',
-  //   symbol: '🇩',
-  //   keywords: 'the dominican republic country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ec',
-  //   symbol: '🇪',
-  //   keywords: 'ecuador country flag flag'
-  // },
-  // {
-  //   title: 'Flag Eg',
-  //   symbol: '🇪',
-  //   keywords: 'egypt country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sv',
-  //   symbol: '🇸',
-  //   keywords: 'el salvador country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gq',
-  //   symbol: '🇬',
-  //   keywords: 'equatorial guinea country flag flag'
-  // },
-  // {
-  //   title: 'Flag Er',
-  //   symbol: '🇪',
-  //   keywords: 'eritrea country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ee',
-  //   symbol: '🇪',
-  //   keywords: 'estonia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Et',
-  //   symbol: '🇪',
-  //   keywords: 'ethiopia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Fk',
-  //   symbol: '🇫',
-  //   keywords: 'falkland islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Fo',
-  //   symbol: '🇫',
-  //   keywords: 'faroe islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Fj',
-  //   symbol: '🇫',
-  //   keywords: 'fiji country flag flag'
-  // },
-  // {
-  //   title: 'Flag Fi',
-  //   symbol: '🇫',
-  //   keywords: 'finland country flag flag'
-  // },
-  // {
-  //   title: 'Flag Fr',
-  //   symbol: '🇫',
-  //   keywords: 'france country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pf',
-  //   symbol: '🇵',
-  //   keywords: 'french polynesia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ga',
-  //   symbol: '🇬',
-  //   keywords: 'gabon country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gm',
-  //   symbol: '🇬',
-  //   keywords: 'the gambia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ge',
-  //   symbol: '🇬',
-  //   keywords: 'georgia country flag flag'
-  // },
-  // {
-  //   title: 'Flag De',
-  //   symbol: '🇩',
-  //   keywords: 'germany country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gh',
-  //   symbol: '🇬',
-  //   keywords: 'ghana country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gi',
-  //   symbol: '🇬',
-  //   keywords: 'gibraltar country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gr',
-  //   symbol: '🇬',
-  //   keywords: 'greece country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gl',
-  //   symbol: '🇬',
-  //   keywords: 'greenland country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gd',
-  //   symbol: '🇬',
-  //   keywords: 'grenada country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gu',
-  //   symbol: '🇬',
-  //   keywords: 'guam country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gt',
-  //   symbol: '🇬',
-  //   keywords: 'guatemala country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gn',
-  //   symbol: '🇬',
-  //   keywords: 'guinea country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gw',
-  //   symbol: '🇬',
-  //   keywords: 'guinea-bissau country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gy',
-  //   symbol: '🇬',
-  //   keywords: 'guyana country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ht',
-  //   symbol: '🇭',
-  //   keywords: 'haiti country flag flag'
-  // },
-  // {
-  //   title: 'Flag Hn',
-  //   symbol: '🇭',
-  //   keywords: 'honduras country flag flag'
-  // },
-  // {
-  //   title: 'Flag Hk',
-  //   symbol: '🇭',
-  //   keywords: 'hong kong country flag flag'
-  // },
-  // {
-  //   title: 'Flag Hu',
-  //   symbol: '🇭',
-  //   keywords: 'hungary country flag flag'
-  // },
-  // {
-  //   title: 'Flag Is',
-  //   symbol: '🇮',
-  //   keywords: 'iceland country flag flag'
-  // },
-  // {
-  //   title: 'Flag In',
-  //   symbol: '🇮',
-  //   keywords: 'india country flag flag'
-  // },
-  // {
-  //   title: 'Flag Id',
-  //   symbol: '🇮',
-  //   keywords: 'indonesia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ir',
-  //   symbol: '🇮',
-  //   keywords: 'iran country flag flag'
-  // },
-  // {
-  //   title: 'Flag Iq',
-  //   symbol: '🇮',
-  //   keywords: 'iraq country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ie',
-  //   symbol: '🇮',
-  //   keywords: 'ireland country flag flag'
-  // },
-  // {
-  //   title: 'Flag Il',
-  //   symbol: '🇮',
-  //   keywords: 'israel jew country flag flag'
-  // },
-  // {
-  //   title: 'Flag It',
-  //   symbol: '🇮',
-  //   keywords: 'italy italian country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ci',
-  //   symbol: '🇨',
-  //   keywords: 'côte d’ivoire country flag flag'
-  // },
-  // {
-  //   title: 'Flag Jm',
-  //   symbol: '🇯',
-  //   keywords: 'jamaica country flag flag'
-  // },
-  // {
-  //   title: 'Flag Jp',
-  //   symbol: '🇯',
-  //   keywords: 'japan japan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Je',
-  //   symbol: '🇯',
-  //   keywords: 'jersey country flag flag'
-  // },
-  // {
-  //   title: 'Flag Jo',
-  //   symbol: '🇯',
-  //   keywords: 'jordan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Kz',
-  //   symbol: '🇰',
-  //   keywords: 'kazakhstan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ke',
-  //   symbol: '🇰',
-  //   keywords: 'kenya country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ki',
-  //   symbol: '🇰',
-  //   keywords: 'kiribati country flag flag'
-  // },
-  // {
-  //   title: 'Flag Xk',
-  //   symbol: '🇽',
-  //   keywords: 'kosovo country flag flag'
-  // },
-  // {
-  //   title: 'Flag Kw',
-  //   symbol: '🇰',
-  //   keywords: 'kuwait country flag flag'
-  // },
-  // {
-  //   title: 'Flag Kg',
-  //   symbol: '🇰',
-  //   keywords: 'kyrgyzstan country flag flag'
-  // },
-  // {
-  //   title: 'Flag La',
-  //   symbol: '🇱',
-  //   keywords: 'laos country flag flag'
-  // },
-  // {
-  //   title: 'Flag Lv',
-  //   symbol: '🇱',
-  //   keywords: 'latvia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Lb',
-  //   symbol: '🇱',
-  //   keywords: 'lebanon country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ls',
-  //   symbol: '🇱',
-  //   keywords: 'lesotho country flag flag'
-  // },
-  // {
-  //   title: 'Flag Lr',
-  //   symbol: '🇱',
-  //   keywords: 'liberia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ly',
-  //   symbol: '🇱',
-  //   keywords: 'libya country flag flag'
-  // },
-  // {
-  //   title: 'Flag Li',
-  //   symbol: '🇱',
-  //   keywords: 'liechtenstein country flag flag'
-  // },
-  // {
-  //   title: 'Flag Lt',
-  //   symbol: '🇱',
-  //   keywords: 'lithuania country flag flag'
-  // },
-  // {
-  //   title: 'Flag Lu',
-  //   symbol: '🇱',
-  //   keywords: 'luxembourg country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mo',
-  //   symbol: '🇲',
-  //   keywords: 'macau country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mk',
-  //   symbol: '🇲',
-  //   keywords: 'macedonia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mg',
-  //   symbol: '🇲',
-  //   keywords: 'madagascar country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mw',
-  //   symbol: '🇲',
-  //   keywords: 'malawi country flag flag'
-  // },
-  // {
-  //   title: 'Flag My',
-  //   symbol: '🇲',
-  //   keywords: 'malaysia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mv',
-  //   symbol: '🇲',
-  //   keywords: 'maldives country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ml',
-  //   symbol: '🇲',
-  //   keywords: 'mali country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mt',
-  //   symbol: '🇲',
-  //   keywords: 'malta country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mh',
-  //   symbol: '🇲',
-  //   keywords: 'the marshall islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mr',
-  //   symbol: '🇲',
-  //   keywords: 'mauritania country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mu',
-  //   symbol: '🇲',
-  //   keywords: 'mauritius country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mx',
-  //   symbol: '🇲',
-  //   keywords: 'mexico country mexican flag flag'
-  // },
-  // {
-  //   title: 'Flag Fm',
-  //   symbol: '🇫',
-  //   keywords: 'micronesia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Md',
-  //   symbol: '🇲',
-  //   keywords: 'moldova country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mc',
-  //   symbol: '🇲',
-  //   keywords: 'monaco country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mn',
-  //   symbol: '🇲',
-  //   keywords: 'mongolia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Me',
-  //   symbol: '🇲',
-  //   keywords: 'montenegro country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ms',
-  //   symbol: '🇲',
-  //   keywords: 'montserrat country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ma',
-  //   symbol: '🇲',
-  //   keywords: 'morocco country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mz',
-  //   symbol: '🇲',
-  //   keywords: 'mozambique country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mm',
-  //   symbol: '🇲',
-  //   keywords: 'myanmar country flag flag'
-  // },
-  // {
-  //   title: 'Flag Na',
-  //   symbol: '🇳',
-  //   keywords: 'namibia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Nr',
-  //   symbol: '🇳',
-  //   keywords: 'nauru country flag flag'
-  // },
-  // {
-  //   title: 'Flag Np',
-  //   symbol: '🇳',
-  //   keywords: 'nepal country flag flag'
-  // },
-  // {
-  //   title: 'Flag Nl',
-  //   symbol: '🇳',
-  //   keywords: 'the netherlands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Nc',
-  //   symbol: '🇳',
-  //   keywords: 'new caledonia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Nz',
-  //   symbol: '🇳',
-  //   keywords: 'new zealand country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ni',
-  //   symbol: '🇳',
-  //   keywords: 'nicaragua country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ne',
-  //   symbol: '🇳',
-  //   keywords: 'niger country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ng',
-  //   symbol: '🇳',
-  //   keywords: 'nigeria country flag flag'
-  // },
-  // {
-  //   title: 'Flag Nu',
-  //   symbol: '🇳',
-  //   keywords: 'niue country flag flag'
-  // },
-  // {
-  //   title: 'Flag Kp',
-  //   symbol: '🇰',
-  //   keywords: 'north korea country flag flag'
-  // },
-  // {
-  //   title: 'Flag No',
-  //   symbol: '🇳',
-  //   keywords: 'norway country flag flag'
-  // },
-  // {
-  //   title: 'Flag Om',
-  //   symbol: '🇴',
-  //   keywords: 'oman country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pk',
-  //   symbol: '🇵',
-  //   keywords: 'pakistan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pw',
-  //   symbol: '🇵',
-  //   keywords: 'palau country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ps',
-  //   symbol: '🇵',
-  //   keywords: 'palestinian authority country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pa',
-  //   symbol: '🇵',
-  //   keywords: 'panama country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pg',
-  //   symbol: '🇵',
-  //   keywords: 'papua new guinea country flag flag'
-  // },
-  // {
-  //   title: 'Flag Py',
-  //   symbol: '🇵',
-  //   keywords: 'paraguay country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pe',
-  //   symbol: '🇵',
-  //   keywords: 'peru country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ph',
-  //   symbol: '🇵',
-  //   keywords: 'the philippines country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pl',
-  //   symbol: '🇵',
-  //   keywords: 'poland country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pt',
-  //   symbol: '🇵',
-  //   keywords: 'portugal country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pr',
-  //   symbol: '🇵',
-  //   keywords: 'puerto rico country flag flag'
-  // },
-  // {
-  //   title: 'Flag Qa',
-  //   symbol: '🇶',
-  //   keywords: 'qatar country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ro',
-  //   symbol: '🇷',
-  //   keywords: 'romania country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ru',
-  //   symbol: '🇷',
-  //   keywords: 'russia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Rw',
-  //   symbol: '🇷',
-  //   keywords: 'rwanda country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sh',
-  //   symbol: '🇸',
-  //   keywords: 'saint helena country flag flag'
-  // },
-  // {
-  //   title: 'Flag Kn',
-  //   symbol: '🇰',
-  //   keywords: 'saint kitts and nevis country flag flag'
-  // },
-  // {
-  //   title: 'Flag Lc',
-  //   symbol: '🇱',
-  //   keywords: 'saint lucia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Vc',
-  //   symbol: '🇻',
-  //   keywords: 'saint vincent and the grenadines country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ws',
-  //   symbol: '🇼',
-  //   keywords: 'samoa country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sm',
-  //   symbol: '🇸',
-  //   keywords: 'san marino country flag flag'
-  // },
-  // {
-  //   title: 'Flag St',
-  //   symbol: '🇸',
-  //   keywords: 'são tomé and príncipe country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sa',
-  //   symbol: '🇸',
-  //   keywords: 'saudi arabia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sn',
-  //   symbol: '🇸',
-  //   keywords: 'senegal country flag flag'
-  // },
-  // {
-  //   title: 'Flag Rs',
-  //   symbol: '🇷',
-  //   keywords: 'serbia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sc',
-  //   symbol: '🇸',
-  //   keywords: 'the seychelles country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sl',
-  //   symbol: '🇸',
-  //   keywords: 'sierra leone country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sg',
-  //   symbol: '🇸',
-  //   keywords: 'singapore country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sk',
-  //   symbol: '🇸',
-  //   keywords: 'slovakia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Si',
-  //   symbol: '🇸',
-  //   keywords: 'slovenia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sb',
-  //   symbol: '🇸',
-  //   keywords: 'the solomon islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag So',
-  //   symbol: '🇸',
-  //   keywords: 'somalia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Za',
-  //   symbol: '🇿',
-  //   keywords: 'south africa country flag flag'
-  // },
-  // {
-  //   title: 'Flag Kr',
-  //   symbol: '🇰',
-  //   keywords: 'korea country flag flag'
-  // },
-  // {
-  //   title: 'Flag Es',
-  //   symbol: '🇪',
-  //   keywords: 'spain country flag flag'
-  // },
-  // {
-  //   title: 'Flag Lk',
-  //   symbol: '🇱',
-  //   keywords: 'sri lanka country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sd',
-  //   symbol: '🇸',
-  //   keywords: 'sudan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sr',
-  //   symbol: '🇸',
-  //   keywords: 'suriname country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sz',
-  //   symbol: '🇸',
-  //   keywords: 'swaziland country flag flag'
-  // },
-  // {
-  //   title: 'Flag Se',
-  //   symbol: '🇸',
-  //   keywords: 'sweden country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ch',
-  //   symbol: '🇨',
-  //   keywords: 'switzerland country neutral flag flag'
-  // },
-  // {
-  //   title: 'Flag Sy',
-  //   symbol: '🇸',
-  //   keywords: 'syria country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tw',
-  //   symbol: '🇹',
-  //   keywords: 'the republic of china country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tj',
-  //   symbol: '🇹',
-  //   keywords: 'tajikistan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tz',
-  //   symbol: '🇹',
-  //   keywords: 'tanzania country flag flag'
-  // },
-  // {
-  //   title: 'Flag Th',
-  //   symbol: '🇹',
-  //   keywords: 'thailand country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tl',
-  //   symbol: '🇹',
-  //   keywords: 'timor-leste country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tg',
-  //   symbol: '🇹',
-  //   keywords: 'togo country flag flag'
-  // },
-  // {
-  //   title: 'Flag To',
-  //   symbol: '🇹',
-  //   keywords: 'tonga country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tt',
-  //   symbol: '🇹',
-  //   keywords: 'trinidad and tobago country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tn',
-  //   symbol: '🇹',
-  //   keywords: 'tunisia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tr',
-  //   symbol: '🇹',
-  //   keywords: 'turkey country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tm',
-  //   symbol: '🇹',
-  //   keywords: 'turkmenistan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tv',
-  //   symbol: '🇹',
-  //   keywords: 'tuvalu country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ug',
-  //   symbol: '🇺',
-  //   keywords: 'uganda country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ua',
-  //   symbol: '🇺',
-  //   keywords: 'ukraine country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ae',
-  //   symbol: '🇦',
-  //   keywords: 'the united arab emirates country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gb',
-  //   symbol: '🇬',
-  //   keywords: 'great britain country flag flag'
-  // },
-  // {
-  //   title: 'Flag Us',
-  //   symbol: '🇺',
-  //   keywords: 'united states america country flag flag'
-  // },
-  // {
-  //   title: 'Flag Vi',
-  //   symbol: '🇻',
-  //   keywords: 'u.s. virgin islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Uy',
-  //   symbol: '🇺',
-  //   keywords: 'uruguay country flag flag'
-  // },
-  // {
-  //   title: 'Flag Uz',
-  //   symbol: '🇺',
-  //   keywords: 'uzbekistan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Vu',
-  //   symbol: '🇻',
-  //   keywords: 'vanuatu country flag flag'
-  // },
-  // {
-  //   title: 'Flag Va',
-  //   symbol: '🇻',
-  //   keywords: 'the vatican city country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ve',
-  //   symbol: '🇻',
-  //   keywords: 'venezuela country flag flag'
-  // },
-  // {
-  //   title: 'Flag Vn',
-  //   symbol: '🇻',
-  //   keywords: 'vietnam country flag flag'
-  // },
-  // {
-  //   title: 'Flag Wf',
-  //   symbol: '🇼',
-  //   keywords: 'wallis and futuna country flag flag'
-  // },
-  // {
-  //   title: 'Flag Eh',
-  //   symbol: '🇪',
-  //   keywords: 'western sahara country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ye',
-  //   symbol: '🇾',
-  //   keywords: 'yemen country flag flag'
-  // },
-  // {
-  //   title: 'Flag Zm',
-  //   symbol: '🇿',
-  //   keywords: 'zambia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Zw',
-  //   symbol: '🇿',
-  //   keywords: 'zimbabwe country flag flag'
-  // },
-  // {
-  //   title: 'Flag Re',
-  //   symbol: '🇷',
-  //   keywords: 'réunion country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ax',
-  //   symbol: '🇦',
-  //   keywords: 'åland islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ta',
-  //   symbol: '🇹',
-  //   keywords: 'tristan da cunha country flag flag'
-  // },
-  // {
-  //   title: 'Flag Io',
-  //   symbol: '🇮',
-  //   keywords: 'british indian ocean territory country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bq',
-  //   symbol: '🇧',
-  //   keywords: 'caribbean netherlands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cx',
-  //   symbol: '🇨',
-  //   keywords: 'christmas island country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cc',
-  //   symbol: '🇨',
-  //   keywords: 'cocos (keeling) islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gg',
-  //   symbol: '🇬',
-  //   keywords: 'guernsey country flag flag'
-  // },
-  // {
-  //   title: 'Flag Im',
-  //   symbol: '🇮',
-  //   keywords: 'isle of man country flag flag'
-  // },
-  // {
-  //   title: 'Flag Yt',
-  //   symbol: '🇾',
-  //   keywords: 'mayotte country flag flag'
-  // },
-  // {
-  //   title: 'Flag Nf',
-  //   symbol: '🇳',
-  //   keywords: 'norfolk island country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pn',
-  //   symbol: '🇵',
-  //   keywords: 'pitcairn country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bl',
-  //   symbol: '🇧',
-  //   keywords: 'saint barthélemy country flag flag'
-  // },
-  // {
-  //   title: 'Flag Pm',
-  //   symbol: '🇵',
-  //   keywords: 'saint pierre and miquelon country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gs',
-  //   symbol: '🇬',
-  //   keywords: 'south georgia country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tk',
-  //   symbol: '🇹',
-  //   keywords: 'tokelau country flag flag'
-  // },
-  // {
-  //   title: 'Flag Bv',
-  //   symbol: '🇧',
-  //   keywords: 'bouvet island country flag flag'
-  // },
-  // {
-  //   title: 'Flag Hm',
-  //   symbol: '🇭',
-  //   keywords: 'heard island and mcdonald islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sj',
-  //   symbol: '🇸',
-  //   keywords: 'svalbard and jan mayen country flag flag'
-  // },
-  // {
-  //   title: 'Flag Um',
-  //   symbol: '🇺',
-  //   keywords: 'united states minor outlying islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ic',
-  //   symbol: '🇮',
-  //   keywords: 'canary islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ea',
-  //   symbol: '🇪',
-  //   keywords: 'ceuta, melilla country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cp',
-  //   symbol: '🇨',
-  //   keywords: 'clipperton island country flag flag'
-  // },
-  // {
-  //   title: 'Flag Dg',
-  //   symbol: '🇩',
-  //   keywords: 'diego garcia country flag flag'
-  // },
-  // {
-  //   title: 'Flag As',
-  //   symbol: '🇦',
-  //   keywords: 'american samoa country flag flag'
-  // },
-  // {
-  //   title: 'Flag Aq',
-  //   symbol: '🇦',
-  //   keywords: 'antarctica country flag flag'
-  // },
-  // {
-  //   title: 'Flag Vg',
-  //   symbol: '🇻',
-  //   keywords: 'british virgin islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ck',
-  //   symbol: '🇨',
-  //   keywords: 'cook islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Cw',
-  //   symbol: '🇨',
-  //   keywords: 'curaçao country flag flag'
-  // },
-  // {
-  //   title: 'Flag Eu',
-  //   symbol: '🇪',
-  //   keywords: 'european union country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gf',
-  //   symbol: '🇬',
-  //   keywords: 'french guiana country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tf',
-  //   symbol: '🇹',
-  //   keywords: 'french southern territories country flag flag'
-  // },
-  // {
-  //   title: 'Flag Gp',
-  //   symbol: '🇬',
-  //   keywords: 'guadeloupe country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mq',
-  //   symbol: '🇲',
-  //   keywords: 'martinique country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mp',
-  //   symbol: '🇲',
-  //   keywords: 'northern mariana islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Sx',
-  //   symbol: '🇸',
-  //   keywords: 'sint maarten country flag flag'
-  // },
-  // {
-  //   title: 'Flag Ss',
-  //   symbol: '🇸',
-  //   keywords: 'south sudan country flag flag'
-  // },
-  // {
-  //   title: 'Flag Tc',
-  //   symbol: '🇹',
-  //   keywords: 'turks and caicos islands country flag flag'
-  // },
-  // {
-  //   title: 'Flag Mf',
-  //   symbol: '🇲',
-  //   keywords: 'saint martin country flag flag'
-  // },
+  {
+    title: 'Flag Ac',
+    symbol: '🇦',
+    keywords: 'ascension country flag flag'
+  },
+  {
+    title: 'Flag Af',
+    symbol: '🇦',
+    keywords: 'afghanistan country flag flag'
+  },
+  {
+    title: 'Flag Al',
+    symbol: '🇦',
+    keywords: 'albania country flag flag'
+  },
+  {
+    title: 'Flag Dz',
+    symbol: '🇩',
+    keywords: 'algeria country flag flag'
+  },
+  {
+    title: 'Flag Ad',
+    symbol: '🇦',
+    keywords: 'andorra country flag flag'
+  },
+  {
+    title: 'Flag Ao',
+    symbol: '🇦',
+    keywords: 'angola country flag flag'
+  },
+  {
+    title: 'Flag Ai',
+    symbol: '🇦',
+    keywords: 'anguilla country flag flag'
+  },
+  {
+    title: 'Flag Ag',
+    symbol: '🇦',
+    keywords: 'antigua and barbuda country flag flag'
+  },
+  {
+    title: 'Flag Ar',
+    symbol: '🇦',
+    keywords: 'argentina country flag flag'
+  },
+  {
+    title: 'Flag Am',
+    symbol: '🇦',
+    keywords: 'armenia country flag flag'
+  },
+  {
+    title: 'Flag Aw',
+    symbol: '🇦',
+    keywords: 'aruba country flag flag'
+  },
+  {
+    title: 'Flag Au',
+    symbol: '🇦',
+    keywords: 'australia country flag flag'
+  },
+  {
+    title: 'Flag At',
+    symbol: '🇦',
+    keywords: 'austria country flag flag'
+  },
+  {
+    title: 'Flag Az',
+    symbol: '🇦',
+    keywords: 'azerbaijan country flag flag'
+  },
+  {
+    title: 'Flag Bs',
+    symbol: '🇧',
+    keywords: 'the bahamas country flag flag'
+  },
+  {
+    title: 'Flag Bh',
+    symbol: '🇧',
+    keywords: 'bahrain country flag flag'
+  },
+  {
+    title: 'Flag Bd',
+    symbol: '🇧',
+    keywords: 'bangladesh country flag flag'
+  },
+  {
+    title: 'Flag Bb',
+    symbol: '🇧',
+    keywords: 'barbados country flag flag'
+  },
+  {
+    title: 'Flag By',
+    symbol: '🇧',
+    keywords: 'belarus country flag flag'
+  },
+  {
+    title: 'Flag Be',
+    symbol: '🇧',
+    keywords: 'belgium country flag flag'
+  },
+  {
+    title: 'Flag Bz',
+    symbol: '🇧',
+    keywords: 'belize country flag flag'
+  },
+  {
+    title: 'Flag Bj',
+    symbol: '🇧',
+    keywords: 'benin country flag flag'
+  },
+  {
+    title: 'Flag Bm',
+    symbol: '🇧',
+    keywords: 'bermuda country flag flag'
+  },
+  {
+    title: 'Flag Bt',
+    symbol: '🇧',
+    keywords: 'bhutan country flag flag'
+  },
+  {
+    title: 'Flag Bo',
+    symbol: '🇧',
+    keywords: 'bolivia country flag flag'
+  },
+  {
+    title: 'Flag Ba',
+    symbol: '🇧',
+    keywords: 'bosnia and herzegovina country flag flag'
+  },
+  {
+    title: 'Flag Bw',
+    symbol: '🇧',
+    keywords: 'botswana country flag flag'
+  },
+  {
+    title: 'Flag Br',
+    symbol: '🇧',
+    keywords: 'brazil country flag flag'
+  },
+  {
+    title: 'Flag Bn',
+    symbol: '🇧',
+    keywords: 'brunei country flag flag'
+  },
+  {
+    title: 'Flag Bg',
+    symbol: '🇧',
+    keywords: 'bulgaria country flag flag'
+  },
+  {
+    title: 'Flag Bf',
+    symbol: '🇧',
+    keywords: 'burkina faso country flag flag'
+  },
+  {
+    title: 'Flag Bi',
+    symbol: '🇧',
+    keywords: 'burundi country flag flag'
+  },
+  {
+    title: 'Flag Cv',
+    symbol: '🇨',
+    keywords: 'cape verde country flag flag'
+  },
+  {
+    title: 'Flag Kh',
+    symbol: '🇰',
+    keywords: 'cambodia country flag flag'
+  },
+  {
+    title: 'Flag Cm',
+    symbol: '🇨',
+    keywords: 'cameroon country flag flag'
+  },
+  {
+    title: 'Flag Ca',
+    symbol: '🇨',
+    keywords: 'canada country flag flag'
+  },
+  {
+    title: 'Flag Ky',
+    symbol: '🇰',
+    keywords: 'cayman islands country flag flag'
+  },
+  {
+    title: 'Flag Cf',
+    symbol: '🇨',
+    keywords: 'central african republic country flag flag'
+  },
+  {
+    title: 'Flag Td',
+    symbol: '🇹',
+    keywords: 'chad country flag flag'
+  },
+  {
+    title: 'Flag Cl',
+    symbol: '🇨',
+    keywords: 'chile country flag flag'
+  },
+  {
+    title: 'Flag Cn',
+    symbol: '🇨',
+    keywords: 'china country flag flag'
+  },
+  {
+    title: 'Flag Co',
+    symbol: '🇨',
+    keywords: 'colombia country flag flag'
+  },
+  {
+    title: 'Flag Km',
+    symbol: '🇰',
+    keywords: 'the comoros country flag flag'
+  },
+  {
+    title: 'Flag Cg',
+    symbol: '🇨',
+    keywords: 'the republic of the congo country flag flag'
+  },
+  {
+    title: 'Flag Cd',
+    symbol: '🇨',
+    keywords: 'the democratic republic of the congo country flag flag'
+  },
+  {
+    title: 'Flag Cr',
+    symbol: '🇨',
+    keywords: 'costa rica country flag flag'
+  },
+  {
+    title: 'Flag Hr',
+    symbol: '🇭',
+    keywords: 'croatia country flag flag'
+  },
+  {
+    title: 'Flag Cu',
+    symbol: '🇨',
+    keywords: 'cuba country flag flag'
+  },
+  {
+    title: 'Flag Cy',
+    symbol: '🇨',
+    keywords: 'cyprus country flag flag'
+  },
+  {
+    title: 'Flag Cz',
+    symbol: '🇨',
+    keywords: 'the czech republic country flag flag'
+  },
+  {
+    title: 'Flag Dk',
+    symbol: '🇩',
+    keywords: 'denmark country flag flag'
+  },
+  {
+    title: 'Flag Dj',
+    symbol: '🇩',
+    keywords: 'djibouti country flag flag'
+  },
+  {
+    title: 'Flag Dm',
+    symbol: '🇩',
+    keywords: 'dominica country flag flag'
+  },
+  {
+    title: 'Flag Do',
+    symbol: '🇩',
+    keywords: 'the dominican republic country flag flag'
+  },
+  {
+    title: 'Flag Ec',
+    symbol: '🇪',
+    keywords: 'ecuador country flag flag'
+  },
+  {
+    title: 'Flag Eg',
+    symbol: '🇪',
+    keywords: 'egypt country flag flag'
+  },
+  {
+    title: 'Flag Sv',
+    symbol: '🇸',
+    keywords: 'el salvador country flag flag'
+  },
+  {
+    title: 'Flag Gq',
+    symbol: '🇬',
+    keywords: 'equatorial guinea country flag flag'
+  },
+  {
+    title: 'Flag Er',
+    symbol: '🇪',
+    keywords: 'eritrea country flag flag'
+  },
+  {
+    title: 'Flag Ee',
+    symbol: '🇪',
+    keywords: 'estonia country flag flag'
+  },
+  {
+    title: 'Flag Et',
+    symbol: '🇪',
+    keywords: 'ethiopia country flag flag'
+  },
+  {
+    title: 'Flag Fk',
+    symbol: '🇫',
+    keywords: 'falkland islands country flag flag'
+  },
+  {
+    title: 'Flag Fo',
+    symbol: '🇫',
+    keywords: 'faroe islands country flag flag'
+  },
+  {
+    title: 'Flag Fj',
+    symbol: '🇫',
+    keywords: 'fiji country flag flag'
+  },
+  {
+    title: 'Flag Fi',
+    symbol: '🇫',
+    keywords: 'finland country flag flag'
+  },
+  {
+    title: 'Flag Fr',
+    symbol: '🇫',
+    keywords: 'france country flag flag'
+  },
+  {
+    title: 'Flag Pf',
+    symbol: '🇵',
+    keywords: 'french polynesia country flag flag'
+  },
+  {
+    title: 'Flag Ga',
+    symbol: '🇬',
+    keywords: 'gabon country flag flag'
+  },
+  {
+    title: 'Flag Gm',
+    symbol: '🇬',
+    keywords: 'the gambia country flag flag'
+  },
+  {
+    title: 'Flag Ge',
+    symbol: '🇬',
+    keywords: 'georgia country flag flag'
+  },
+  {
+    title: 'Flag De',
+    symbol: '🇩',
+    keywords: 'germany country flag flag'
+  },
+  {
+    title: 'Flag Gh',
+    symbol: '🇬',
+    keywords: 'ghana country flag flag'
+  },
+  {
+    title: 'Flag Gi',
+    symbol: '🇬',
+    keywords: 'gibraltar country flag flag'
+  },
+  {
+    title: 'Flag Gr',
+    symbol: '🇬',
+    keywords: 'greece country flag flag'
+  },
+  {
+    title: 'Flag Gl',
+    symbol: '🇬',
+    keywords: 'greenland country flag flag'
+  },
+  {
+    title: 'Flag Gd',
+    symbol: '🇬',
+    keywords: 'grenada country flag flag'
+  },
+  {
+    title: 'Flag Gu',
+    symbol: '🇬',
+    keywords: 'guam country flag flag'
+  },
+  {
+    title: 'Flag Gt',
+    symbol: '🇬',
+    keywords: 'guatemala country flag flag'
+  },
+  {
+    title: 'Flag Gn',
+    symbol: '🇬',
+    keywords: 'guinea country flag flag'
+  },
+  {
+    title: 'Flag Gw',
+    symbol: '🇬',
+    keywords: 'guinea-bissau country flag flag'
+  },
+  {
+    title: 'Flag Gy',
+    symbol: '🇬',
+    keywords: 'guyana country flag flag'
+  },
+  {
+    title: 'Flag Ht',
+    symbol: '🇭',
+    keywords: 'haiti country flag flag'
+  },
+  {
+    title: 'Flag Hn',
+    symbol: '🇭',
+    keywords: 'honduras country flag flag'
+  },
+  {
+    title: 'Flag Hk',
+    symbol: '🇭',
+    keywords: 'hong kong country flag flag'
+  },
+  {
+    title: 'Flag Hu',
+    symbol: '🇭',
+    keywords: 'hungary country flag flag'
+  },
+  {
+    title: 'Flag Is',
+    symbol: '🇮',
+    keywords: 'iceland country flag flag'
+  },
+  {
+    title: 'Flag In',
+    symbol: '🇮',
+    keywords: 'india country flag flag'
+  },
+  {
+    title: 'Flag Id',
+    symbol: '🇮',
+    keywords: 'indonesia country flag flag'
+  },
+  {
+    title: 'Flag Ir',
+    symbol: '🇮',
+    keywords: 'iran country flag flag'
+  },
+  {
+    title: 'Flag Iq',
+    symbol: '🇮',
+    keywords: 'iraq country flag flag'
+  },
+  {
+    title: 'Flag Ie',
+    symbol: '🇮',
+    keywords: 'ireland country flag flag'
+  },
+  {
+    title: 'Flag Il',
+    symbol: '🇮',
+    keywords: 'israel jew country flag flag'
+  },
+  {
+    title: 'Flag It',
+    symbol: '🇮',
+    keywords: 'italy italian country flag flag'
+  },
+  {
+    title: 'Flag Ci',
+    symbol: '🇨',
+    keywords: 'côte d’ivoire country flag flag'
+  },
+  {
+    title: 'Flag Jm',
+    symbol: '🇯',
+    keywords: 'jamaica country flag flag'
+  },
+  {
+    title: 'Flag Jp',
+    symbol: '🇯',
+    keywords: 'japan japan country flag flag'
+  },
+  {
+    title: 'Flag Je',
+    symbol: '🇯',
+    keywords: 'jersey country flag flag'
+  },
+  {
+    title: 'Flag Jo',
+    symbol: '🇯',
+    keywords: 'jordan country flag flag'
+  },
+  {
+    title: 'Flag Kz',
+    symbol: '🇰',
+    keywords: 'kazakhstan country flag flag'
+  },
+  {
+    title: 'Flag Ke',
+    symbol: '🇰',
+    keywords: 'kenya country flag flag'
+  },
+  {
+    title: 'Flag Ki',
+    symbol: '🇰',
+    keywords: 'kiribati country flag flag'
+  },
+  {
+    title: 'Flag Xk',
+    symbol: '🇽',
+    keywords: 'kosovo country flag flag'
+  },
+  {
+    title: 'Flag Kw',
+    symbol: '🇰',
+    keywords: 'kuwait country flag flag'
+  },
+  {
+    title: 'Flag Kg',
+    symbol: '🇰',
+    keywords: 'kyrgyzstan country flag flag'
+  },
+  {
+    title: 'Flag La',
+    symbol: '🇱',
+    keywords: 'laos country flag flag'
+  },
+  {
+    title: 'Flag Lv',
+    symbol: '🇱',
+    keywords: 'latvia country flag flag'
+  },
+  {
+    title: 'Flag Lb',
+    symbol: '🇱',
+    keywords: 'lebanon country flag flag'
+  },
+  {
+    title: 'Flag Ls',
+    symbol: '🇱',
+    keywords: 'lesotho country flag flag'
+  },
+  {
+    title: 'Flag Lr',
+    symbol: '🇱',
+    keywords: 'liberia country flag flag'
+  },
+  {
+    title: 'Flag Ly',
+    symbol: '🇱',
+    keywords: 'libya country flag flag'
+  },
+  {
+    title: 'Flag Li',
+    symbol: '🇱',
+    keywords: 'liechtenstein country flag flag'
+  },
+  {
+    title: 'Flag Lt',
+    symbol: '🇱',
+    keywords: 'lithuania country flag flag'
+  },
+  {
+    title: 'Flag Lu',
+    symbol: '🇱',
+    keywords: 'luxembourg country flag flag'
+  },
+  {
+    title: 'Flag Mo',
+    symbol: '🇲',
+    keywords: 'macau country flag flag'
+  },
+  {
+    title: 'Flag Mk',
+    symbol: '🇲',
+    keywords: 'macedonia country flag flag'
+  },
+  {
+    title: 'Flag Mg',
+    symbol: '🇲',
+    keywords: 'madagascar country flag flag'
+  },
+  {
+    title: 'Flag Mw',
+    symbol: '🇲',
+    keywords: 'malawi country flag flag'
+  },
+  {
+    title: 'Flag My',
+    symbol: '🇲',
+    keywords: 'malaysia country flag flag'
+  },
+  {
+    title: 'Flag Mv',
+    symbol: '🇲',
+    keywords: 'maldives country flag flag'
+  },
+  {
+    title: 'Flag Ml',
+    symbol: '🇲',
+    keywords: 'mali country flag flag'
+  },
+  {
+    title: 'Flag Mt',
+    symbol: '🇲',
+    keywords: 'malta country flag flag'
+  },
+  {
+    title: 'Flag Mh',
+    symbol: '🇲',
+    keywords: 'the marshall islands country flag flag'
+  },
+  {
+    title: 'Flag Mr',
+    symbol: '🇲',
+    keywords: 'mauritania country flag flag'
+  },
+  {
+    title: 'Flag Mu',
+    symbol: '🇲',
+    keywords: 'mauritius country flag flag'
+  },
+  {
+    title: 'Flag Mx',
+    symbol: '🇲',
+    keywords: 'mexico country mexican flag flag'
+  },
+  {
+    title: 'Flag Fm',
+    symbol: '🇫',
+    keywords: 'micronesia country flag flag'
+  },
+  {
+    title: 'Flag Md',
+    symbol: '🇲',
+    keywords: 'moldova country flag flag'
+  },
+  {
+    title: 'Flag Mc',
+    symbol: '🇲',
+    keywords: 'monaco country flag flag'
+  },
+  {
+    title: 'Flag Mn',
+    symbol: '🇲',
+    keywords: 'mongolia country flag flag'
+  },
+  {
+    title: 'Flag Me',
+    symbol: '🇲',
+    keywords: 'montenegro country flag flag'
+  },
+  {
+    title: 'Flag Ms',
+    symbol: '🇲',
+    keywords: 'montserrat country flag flag'
+  },
+  {
+    title: 'Flag Ma',
+    symbol: '🇲',
+    keywords: 'morocco country flag flag'
+  },
+  {
+    title: 'Flag Mz',
+    symbol: '🇲',
+    keywords: 'mozambique country flag flag'
+  },
+  {
+    title: 'Flag Mm',
+    symbol: '🇲',
+    keywords: 'myanmar country flag flag'
+  },
+  {
+    title: 'Flag Na',
+    symbol: '🇳',
+    keywords: 'namibia country flag flag'
+  },
+  {
+    title: 'Flag Nr',
+    symbol: '🇳',
+    keywords: 'nauru country flag flag'
+  },
+  {
+    title: 'Flag Np',
+    symbol: '🇳',
+    keywords: 'nepal country flag flag'
+  },
+  {
+    title: 'Flag Nl',
+    symbol: '🇳',
+    keywords: 'the netherlands country flag flag'
+  },
+  {
+    title: 'Flag Nc',
+    symbol: '🇳',
+    keywords: 'new caledonia country flag flag'
+  },
+  {
+    title: 'Flag Nz',
+    symbol: '🇳',
+    keywords: 'new zealand country flag flag'
+  },
+  {
+    title: 'Flag Ni',
+    symbol: '🇳',
+    keywords: 'nicaragua country flag flag'
+  },
+  {
+    title: 'Flag Ne',
+    symbol: '🇳',
+    keywords: 'niger country flag flag'
+  },
+  {
+    title: 'Flag Ng',
+    symbol: '🇳',
+    keywords: 'nigeria country flag flag'
+  },
+  {
+    title: 'Flag Nu',
+    symbol: '🇳',
+    keywords: 'niue country flag flag'
+  },
+  {
+    title: 'Flag Kp',
+    symbol: '🇰',
+    keywords: 'north korea country flag flag'
+  },
+  {
+    title: 'Flag No',
+    symbol: '🇳',
+    keywords: 'norway country flag flag'
+  },
+  {
+    title: 'Flag Om',
+    symbol: '🇴',
+    keywords: 'oman country flag flag'
+  },
+  {
+    title: 'Flag Pk',
+    symbol: '🇵',
+    keywords: 'pakistan country flag flag'
+  },
+  {
+    title: 'Flag Pw',
+    symbol: '🇵',
+    keywords: 'palau country flag flag'
+  },
+  {
+    title: 'Flag Ps',
+    symbol: '🇵',
+    keywords: 'palestinian authority country flag flag'
+  },
+  {
+    title: 'Flag Pa',
+    symbol: '🇵',
+    keywords: 'panama country flag flag'
+  },
+  {
+    title: 'Flag Pg',
+    symbol: '🇵',
+    keywords: 'papua new guinea country flag flag'
+  },
+  {
+    title: 'Flag Py',
+    symbol: '🇵',
+    keywords: 'paraguay country flag flag'
+  },
+  {
+    title: 'Flag Pe',
+    symbol: '🇵',
+    keywords: 'peru country flag flag'
+  },
+  {
+    title: 'Flag Ph',
+    symbol: '🇵',
+    keywords: 'the philippines country flag flag'
+  },
+  {
+    title: 'Flag Pl',
+    symbol: '🇵',
+    keywords: 'poland country flag flag'
+  },
+  {
+    title: 'Flag Pt',
+    symbol: '🇵',
+    keywords: 'portugal country flag flag'
+  },
+  {
+    title: 'Flag Pr',
+    symbol: '🇵',
+    keywords: 'puerto rico country flag flag'
+  },
+  {
+    title: 'Flag Qa',
+    symbol: '🇶',
+    keywords: 'qatar country flag flag'
+  },
+  {
+    title: 'Flag Ro',
+    symbol: '🇷',
+    keywords: 'romania country flag flag'
+  },
+  {
+    title: 'Flag Ru',
+    symbol: '🇷',
+    keywords: 'russia country flag flag'
+  },
+  {
+    title: 'Flag Rw',
+    symbol: '🇷',
+    keywords: 'rwanda country flag flag'
+  },
+  {
+    title: 'Flag Sh',
+    symbol: '🇸',
+    keywords: 'saint helena country flag flag'
+  },
+  {
+    title: 'Flag Kn',
+    symbol: '🇰',
+    keywords: 'saint kitts and nevis country flag flag'
+  },
+  {
+    title: 'Flag Lc',
+    symbol: '🇱',
+    keywords: 'saint lucia country flag flag'
+  },
+  {
+    title: 'Flag Vc',
+    symbol: '🇻',
+    keywords: 'saint vincent and the grenadines country flag flag'
+  },
+  {
+    title: 'Flag Ws',
+    symbol: '🇼',
+    keywords: 'samoa country flag flag'
+  },
+  {
+    title: 'Flag Sm',
+    symbol: '🇸',
+    keywords: 'san marino country flag flag'
+  },
+  {
+    title: 'Flag St',
+    symbol: '🇸',
+    keywords: 'são tomé and príncipe country flag flag'
+  },
+  {
+    title: 'Flag Sa',
+    symbol: '🇸',
+    keywords: 'saudi arabia country flag flag'
+  },
+  {
+    title: 'Flag Sn',
+    symbol: '🇸',
+    keywords: 'senegal country flag flag'
+  },
+  {
+    title: 'Flag Rs',
+    symbol: '🇷',
+    keywords: 'serbia country flag flag'
+  },
+  {
+    title: 'Flag Sc',
+    symbol: '🇸',
+    keywords: 'the seychelles country flag flag'
+  },
+  {
+    title: 'Flag Sl',
+    symbol: '🇸',
+    keywords: 'sierra leone country flag flag'
+  },
+  {
+    title: 'Flag Sg',
+    symbol: '🇸',
+    keywords: 'singapore country flag flag'
+  },
+  {
+    title: 'Flag Sk',
+    symbol: '🇸',
+    keywords: 'slovakia country flag flag'
+  },
+  {
+    title: 'Flag Si',
+    symbol: '🇸',
+    keywords: 'slovenia country flag flag'
+  },
+  {
+    title: 'Flag Sb',
+    symbol: '🇸',
+    keywords: 'the solomon islands country flag flag'
+  },
+  {
+    title: 'Flag So',
+    symbol: '🇸',
+    keywords: 'somalia country flag flag'
+  },
+  {
+    title: 'Flag Za',
+    symbol: '🇿',
+    keywords: 'south africa country flag flag'
+  },
+  {
+    title: 'Flag Kr',
+    symbol: '🇰',
+    keywords: 'korea country flag flag'
+  },
+  {
+    title: 'Flag Es',
+    symbol: '🇪',
+    keywords: 'spain country flag flag'
+  },
+  {
+    title: 'Flag Lk',
+    symbol: '🇱',
+    keywords: 'sri lanka country flag flag'
+  },
+  {
+    title: 'Flag Sd',
+    symbol: '🇸',
+    keywords: 'sudan country flag flag'
+  },
+  {
+    title: 'Flag Sr',
+    symbol: '🇸',
+    keywords: 'suriname country flag flag'
+  },
+  {
+    title: 'Flag Sz',
+    symbol: '🇸',
+    keywords: 'swaziland country flag flag'
+  },
+  {
+    title: 'Flag Se',
+    symbol: '🇸',
+    keywords: 'sweden country flag flag'
+  },
+  {
+    title: 'Flag Ch',
+    symbol: '🇨',
+    keywords: 'switzerland country neutral flag flag'
+  },
+  {
+    title: 'Flag Sy',
+    symbol: '🇸',
+    keywords: 'syria country flag flag'
+  },
+  {
+    title: 'Flag Tw',
+    symbol: '🇹',
+    keywords: 'the republic of china country flag flag'
+  },
+  {
+    title: 'Flag Tj',
+    symbol: '🇹',
+    keywords: 'tajikistan country flag flag'
+  },
+  {
+    title: 'Flag Tz',
+    symbol: '🇹',
+    keywords: 'tanzania country flag flag'
+  },
+  {
+    title: 'Flag Th',
+    symbol: '🇹',
+    keywords: 'thailand country flag flag'
+  },
+  {
+    title: 'Flag Tl',
+    symbol: '🇹',
+    keywords: 'timor-leste country flag flag'
+  },
+  {
+    title: 'Flag Tg',
+    symbol: '🇹',
+    keywords: 'togo country flag flag'
+  },
+  {
+    title: 'Flag To',
+    symbol: '🇹',
+    keywords: 'tonga country flag flag'
+  },
+  {
+    title: 'Flag Tt',
+    symbol: '🇹',
+    keywords: 'trinidad and tobago country flag flag'
+  },
+  {
+    title: 'Flag Tn',
+    symbol: '🇹',
+    keywords: 'tunisia country flag flag'
+  },
+  {
+    title: 'Flag Tr',
+    symbol: '🇹',
+    keywords: 'turkey country flag flag'
+  },
+  {
+    title: 'Flag Tm',
+    symbol: '🇹',
+    keywords: 'turkmenistan country flag flag'
+  },
+  {
+    title: 'Flag Tv',
+    symbol: '🇹',
+    keywords: 'tuvalu country flag flag'
+  },
+  {
+    title: 'Flag Ug',
+    symbol: '🇺',
+    keywords: 'uganda country flag flag'
+  },
+  {
+    title: 'Flag Ua',
+    symbol: '🇺',
+    keywords: 'ukraine country flag flag'
+  },
+  {
+    title: 'Flag Ae',
+    symbol: '🇦',
+    keywords: 'the united arab emirates country flag flag'
+  },
+  {
+    title: 'Flag Gb',
+    symbol: '🇬',
+    keywords: 'great britain country flag flag'
+  },
+  {
+    title: 'Flag Us',
+    symbol: '🇺',
+    keywords: 'united states america country flag flag'
+  },
+  {
+    title: 'Flag Vi',
+    symbol: '🇻',
+    keywords: 'u.s. virgin islands country flag flag'
+  },
+  {
+    title: 'Flag Uy',
+    symbol: '🇺',
+    keywords: 'uruguay country flag flag'
+  },
+  {
+    title: 'Flag Uz',
+    symbol: '🇺',
+    keywords: 'uzbekistan country flag flag'
+  },
+  {
+    title: 'Flag Vu',
+    symbol: '🇻',
+    keywords: 'vanuatu country flag flag'
+  },
+  {
+    title: 'Flag Va',
+    symbol: '🇻',
+    keywords: 'the vatican city country flag flag'
+  },
+  {
+    title: 'Flag Ve',
+    symbol: '🇻',
+    keywords: 'venezuela country flag flag'
+  },
+  {
+    title: 'Flag Vn',
+    symbol: '🇻',
+    keywords: 'vietnam country flag flag'
+  },
+  {
+    title: 'Flag Wf',
+    symbol: '🇼',
+    keywords: 'wallis and futuna country flag flag'
+  },
+  {
+    title: 'Flag Eh',
+    symbol: '🇪',
+    keywords: 'western sahara country flag flag'
+  },
+  {
+    title: 'Flag Ye',
+    symbol: '🇾',
+    keywords: 'yemen country flag flag'
+  },
+  {
+    title: 'Flag Zm',
+    symbol: '🇿',
+    keywords: 'zambia country flag flag'
+  },
+  {
+    title: 'Flag Zw',
+    symbol: '🇿',
+    keywords: 'zimbabwe country flag flag'
+  },
+  {
+    title: 'Flag Re',
+    symbol: '🇷',
+    keywords: 'réunion country flag flag'
+  },
+  {
+    title: 'Flag Ax',
+    symbol: '🇦',
+    keywords: 'åland islands country flag flag'
+  },
+  {
+    title: 'Flag Ta',
+    symbol: '🇹',
+    keywords: 'tristan da cunha country flag flag'
+  },
+  {
+    title: 'Flag Io',
+    symbol: '🇮',
+    keywords: 'british indian ocean territory country flag flag'
+  },
+  {
+    title: 'Flag Bq',
+    symbol: '🇧',
+    keywords: 'caribbean netherlands country flag flag'
+  },
+  {
+    title: 'Flag Cx',
+    symbol: '🇨',
+    keywords: 'christmas island country flag flag'
+  },
+  {
+    title: 'Flag Cc',
+    symbol: '🇨',
+    keywords: 'cocos (keeling) islands country flag flag'
+  },
+  {
+    title: 'Flag Gg',
+    symbol: '🇬',
+    keywords: 'guernsey country flag flag'
+  },
+  {
+    title: 'Flag Im',
+    symbol: '🇮',
+    keywords: 'isle of man country flag flag'
+  },
+  {
+    title: 'Flag Yt',
+    symbol: '🇾',
+    keywords: 'mayotte country flag flag'
+  },
+  {
+    title: 'Flag Nf',
+    symbol: '🇳',
+    keywords: 'norfolk island country flag flag'
+  },
+  {
+    title: 'Flag Pn',
+    symbol: '🇵',
+    keywords: 'pitcairn country flag flag'
+  },
+  {
+    title: 'Flag Bl',
+    symbol: '🇧',
+    keywords: 'saint barthélemy country flag flag'
+  },
+  {
+    title: 'Flag Pm',
+    symbol: '🇵',
+    keywords: 'saint pierre and miquelon country flag flag'
+  },
+  {
+    title: 'Flag Gs',
+    symbol: '🇬',
+    keywords: 'south georgia country flag flag'
+  },
+  {
+    title: 'Flag Tk',
+    symbol: '🇹',
+    keywords: 'tokelau country flag flag'
+  },
+  {
+    title: 'Flag Bv',
+    symbol: '🇧',
+    keywords: 'bouvet island country flag flag'
+  },
+  {
+    title: 'Flag Hm',
+    symbol: '🇭',
+    keywords: 'heard island and mcdonald islands country flag flag'
+  },
+  {
+    title: 'Flag Sj',
+    symbol: '🇸',
+    keywords: 'svalbard and jan mayen country flag flag'
+  },
+  {
+    title: 'Flag Um',
+    symbol: '🇺',
+    keywords: 'united states minor outlying islands country flag flag'
+  },
+  {
+    title: 'Flag Ic',
+    symbol: '🇮',
+    keywords: 'canary islands country flag flag'
+  },
+  {
+    title: 'Flag Ea',
+    symbol: '🇪',
+    keywords: 'ceuta, melilla country flag flag'
+  },
+  {
+    title: 'Flag Cp',
+    symbol: '🇨',
+    keywords: 'clipperton island country flag flag'
+  },
+  {
+    title: 'Flag Dg',
+    symbol: '🇩',
+    keywords: 'diego garcia country flag flag'
+  },
+  {
+    title: 'Flag As',
+    symbol: '🇦',
+    keywords: 'american samoa country flag flag'
+  },
+  {
+    title: 'Flag Aq',
+    symbol: '🇦',
+    keywords: 'antarctica country flag flag'
+  },
+  {
+    title: 'Flag Vg',
+    symbol: '🇻',
+    keywords: 'british virgin islands country flag flag'
+  },
+  {
+    title: 'Flag Ck',
+    symbol: '🇨',
+    keywords: 'cook islands country flag flag'
+  },
+  {
+    title: 'Flag Cw',
+    symbol: '🇨',
+    keywords: 'curaçao country flag flag'
+  },
+  {
+    title: 'Flag Eu',
+    symbol: '🇪',
+    keywords: 'european union country flag flag'
+  },
+  {
+    title: 'Flag Gf',
+    symbol: '🇬',
+    keywords: 'french guiana country flag flag'
+  },
+  {
+    title: 'Flag Tf',
+    symbol: '🇹',
+    keywords: 'french southern territories country flag flag'
+  },
+  {
+    title: 'Flag Gp',
+    symbol: '🇬',
+    keywords: 'guadeloupe country flag flag'
+  },
+  {
+    title: 'Flag Mq',
+    symbol: '🇲',
+    keywords: 'martinique country flag flag'
+  },
+  {
+    title: 'Flag Mp',
+    symbol: '🇲',
+    keywords: 'northern mariana islands country flag flag'
+  },
+  {
+    title: 'Flag Sx',
+    symbol: '🇸',
+    keywords: 'sint maarten country flag flag'
+  },
+  {
+    title: 'Flag Ss',
+    symbol: '🇸',
+    keywords: 'south sudan country flag flag'
+  },
+  {
+    title: 'Flag Tc',
+    symbol: '🇹',
+    keywords: 'turks and caicos islands country flag flag'
+  },
+  {
+    title: 'Flag Mf',
+    symbol: '🇲',
+    keywords: 'saint martin country flag flag'
+  },
   {
     title: 'Raised Hands Tone1',
     symbol: '🙌',

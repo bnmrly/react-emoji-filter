@@ -6,16 +6,17 @@ export default class SearchBox extends Component {
   };
   render() {
     return (
-      <input
-        className="emojiInput"
-        value={this.state.input}
-        onChange={this.onChange}
-      />
+      <div class="search-container">
+        <h2 className="searchText">Search Emojis here!</h2>
+        <input
+          className="emojiInput"
+          value={this.state.input}
+          onChange={this.onChange}
+        />
+      </div>
     );
   }
   onChange = ({ target }) => {
-    // console.log(target);
-    // console.log('adsdsa');
     const { value } = target;
     this.setState({
       input: value

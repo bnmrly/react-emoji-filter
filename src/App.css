@@ -15,7 +15,7 @@
   text-align: center;
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+  /* justify-content: space-around; */
   background-image: url('bgHeader.png');
   background-size: cover;
   background-position: center 0;
@@ -25,7 +25,7 @@
 
 .App-title {
   font-size: 2.75rem;
-  /* margin-top: 0; */
+  margin-top: 0;
 }
 
 .searchText {
@@ -50,15 +50,26 @@
 }
 
 .emojiWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   margin: auto;
-  max-width: 80%;
+  max-width: 90%;
   margin-bottom: 3rem;
 }
 
-/* .emojis {
-  line-height: 2.5rem;
-} */
+.emojiWrapper {
+  line-height: 5rem;
+}
 
-/* span.emojiSymbol {
-  font-size: 40px;
-} */
+span.emojiSymbol {
+  font-size: 4rem;
+}
+
+#audio {
+  margin-top: 5.5rem;
+}
+
+.search-container {
+  margin-bottom: 1em;
+}

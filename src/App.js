@@ -4,7 +4,6 @@ import './App.css';
 import emojiList from './emojiList';
 import Emojis from './components/Emojis';
 import SearchBox from './components/SearchBox';
-// import ReactAudioPlayer from 'react-audio-player';
 
 class App extends Component {
   state = {
@@ -15,12 +14,8 @@ class App extends Component {
     return (
       <div className="App-container">
         <Header />
-        {/* <ReactAudioPlayer src="hbsw.mp3" autoPlay controls /> */}
-        <h2 className="searchText">Search Emojis here!</h2>
         <SearchBox filterEmoji={this.filterEmoji} />
-        <div className="emojiWrapper">
-          <Emojis emojiList={this.state.emojiList} />
-        </div>
+        <Emojis emojiList={this.state.emojiList} />
       </div>
     );
   }
@@ -39,7 +34,7 @@ function Header() {
   return (
     <header className="App-header">
       <h1 className="App-title">Happy 6th Birthday, Sienna!</h1>
-      <audio id="happy-birthday-sienna" controls loop>
+      <audio id="audio" controls loop>
         <source type="audio/mpeg" src="./hbsw.mp3" />
       </audio>
     </header>
