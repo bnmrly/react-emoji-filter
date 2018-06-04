@@ -14,6 +14,8 @@ export default class SearchBox extends Component {
     );
   }
   onChange = ({ target }) => {
+    // console.log(target);
+    // console.log('adsdsa');
     const { value } = target;
     this.setState({
       input: value

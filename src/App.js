@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 // import bgHeader from './bgHeader.png';
 import './App.css';
-import emojiList from './emojList';
+import emojiList from './emojiList';
 import Emojis from './components/Emojis';
 import SearchBox from './components/SearchBox';
-import ReactAudioPlayer from 'react-audio-player';
+// import ReactAudioPlayer from 'react-audio-player';
 
 class App extends Component {
   state = {
@@ -12,9 +12,8 @@ class App extends Component {
   };
 
   render() {
-    console.dir(this.state.emojiList);
     return (
-      <div className="App">
+      <div className="App-container">
         <Header />
         {/* <ReactAudioPlayer src="hbsw.mp3" autoPlay controls /> */}
         <h2 className="searchText">Search Emojis here!</h2>
@@ -40,6 +39,9 @@ function Header() {
   return (
     <header className="App-header">
       <h1 className="App-title">Happy 6th Birthday, Sienna!</h1>
+      <audio id="happy-birthday-sienna" controls loop>
+        <source type="audio/mpeg" src="./hbsw.mp3" />
+      </audio>
     </header>
   );
 }
