@@ -9185,5 +9185,10 @@ export default [
     title: 'Regional Indicator a',
     symbol: '🇦',
     keywords: 'regional indicator symbol letter a'
+  },
+  {
+    title: 'Sienna',
+    symbol: '🎂',
+    keywords: 'sienna'
   }
 ];
