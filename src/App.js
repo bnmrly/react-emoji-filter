@@ -30,12 +30,12 @@ class App extends Component {
   };
 }
 
-function Header() {
+function Header(props) {
   return (
     <header className="App-header">
       <h1 className="App-title">Happy 6th Birthday, Sienna!</h1>
       <audio id="audio" controls loop>
-        <source type="audio/mpeg" src="./hbsw.mp3" />
+        <source type="audio/mpeg" src="./power.mp3" />
       </audio>
     </header>
   );
