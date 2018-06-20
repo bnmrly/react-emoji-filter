@@ -5,8 +5,9 @@ export default class SearchBox extends Component {
     input: ''
   };
   render() {
+    console.log(this.state.input);
     return (
-      <div class="search-container">
+      <div className="search-container">
         <h2 className="searchText">Search Emojis here!</h2>
         <input
           className="emojiInput"
