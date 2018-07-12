@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import bgHeader from './bgHeader.png';
 import './App.css';
 import emojiList from './emojiList';
 import Emojis from './components/Emojis';
